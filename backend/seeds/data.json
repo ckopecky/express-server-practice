@@ -1,0 +1,51 @@
+{ 
+        "harry": {
+            "firstName": "Harry",
+            "lastName": "Potter",
+            "email": "hp@hogwarts.edu",
+            "password": "I'm a wizard, Hagrid.",
+            "bio": "The Boy Who Was Saved"
+        },
+        "ron": {
+            "firstName": "Ronald",
+            "lastName": "Weasley",
+            "email": "rweasley@hogwarts.edu",
+            "password": "I play wizard's chess.",
+            "bio": "Another Weasley"
+        },
+        "hermione": {
+            "firstName": "Hermione",
+            "lastName": "Grainger",
+            "email": "hg@hogwarts.edu",
+            "password": "I'm the smart one. Don't tell Harry.",
+            "bio": "Smartest Witch in Harry's grade"
+        },
+        "sirius": {
+            "firstName": "Sirius",
+            "lastName": "Black",
+            "email": "siriuslyawesome@gmail.com",
+            "password": "I didn't do it.",
+            "bio": "I'm Padfoot."
+        },
+        "snape": {
+            "firstName": "Severus",
+            "lastName": "Snape",
+            "email": "ssnape@hogwarts.edu",
+            "password": "Turn to page 394.",
+            "bio": "Wannabe DADA teacher; Potions instructor"
+        },
+        "mcgonagall": {
+            "firstName": "Minerva",
+            "lastName": "McGonagall",
+            "email": "mmcgonagall@hogwarts.edu",
+            "password": "I assure you that if you die, you need not hand it in",
+            "bio": "Transfiguration instructor; Gryffindor head"
+        },
+        "dumbledore": {
+            "firstName": "Albus",
+            "lastName": "Dumbledore",
+            "email": "adumbledore@hogwarts.edu",
+            "password": "It's our choices that show what we truly are, far more than our abilities",
+            "bio": "Hogwarts headmaster"
+        }
+}

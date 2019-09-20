@@ -1,0 +1,24 @@
+{
+  "name": "express-server-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ckopecky/express-server-practice.git",
+  "author": "\"ckopecky\" <\"ckopecky@github.com\">",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "json": "^9.0.6",
+    "mongoose": "^5.4.6",
+    "node-mongo-seeds": "^3.1.0",
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "start": "json-server --watch data.json & PORT=7777 nodemon server.js"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0"
+  }
+}

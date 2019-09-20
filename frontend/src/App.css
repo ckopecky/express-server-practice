@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  background-image: url("./images/hogwarts.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: auto;
+}
+.header {
+  color: ivory;
+  margin: 0px;
+  padding: 30px;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  justify-content: flex-end;
+  margin: 50px;
+  padding-bottom: 50px;
+}
+
+#hp-card {
+  width: 400px;
+  height: auto;
+  list-style-type: none;
+  background-color: #a4a882;
+  padding: 10px;
+  margin: 10px;
+}
+
+#hp-card-pic {
+  width: 100%;
+}
+
+p {
+  font-style: italic;
+  margin: 10px;
+}
+
