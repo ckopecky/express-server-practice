@@ -10,7 +10,7 @@
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "helmet": "^3.15.0",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "mongoose": "^5.4.6",
     "node-mongo-seeds": "^3.1.0",
     "nodemon": "^1.18.9"
